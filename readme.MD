@@ -3,6 +3,8 @@
 ## Overview
 The RAG-GW project is a Python-based application designed to analyze and evaluate documents for compliance with governance, strategy, HR, finance, IT/data, risk & audit, ESG, and stakeholder management frameworks. It uses advanced AI models and vector databases to provide insights and recommendations.
 
+This project uses [uv](https://docs.astral.sh/uv/) for fast and efficient Python package management.
+
 ## Features
 - **Document Loading**: Load and process text documents for analysis.
 - **Text Splitting**: Split documents into manageable chunks for efficient processing.
@@ -27,9 +29,26 @@ rag-gw/
    git clone <repository-url>
    cd rag-gw
    ```
-2. Install the required Python libraries:
+2. Install uv (if not already installed):
    ```bash
-   pip install -r requirements.txt
+   # On Windows
+   powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+   
+   # On macOS/Linux
+   curl -LsSf https://astral.sh/uv/install.sh | sh
+   ```
+3. Create virtual environment and install dependencies:
+   ```bash
+   uv venv
+   uv pip install -r requirements.txt
+   ```
+4. Activate the virtual environment:
+   ```bash
+   # On Windows
+   .venv\Scripts\activate
+   
+   # On macOS/Linux
+   source .venv/bin/activate
    ```
 
 ## Environment Variables
@@ -43,12 +62,20 @@ AZURE_OPENAI_API_VERSION=<your-api-version>
 ```
 
 ## Usage
-1. Load documents into the `documents/` directory.
-2. Run the main application:
+1. Activate the virtual environment (if not already active):
    ```bash
-   python main_real.py
+   # On Windows
+   .venv\Scripts\activate
+   
+   # On macOS/Linux
+   source .venv/bin/activate
    ```
-3. Follow the prompts to analyze documents.
+2. Load documents into the `documents/` directory.
+3. Run the main application:
+   ```bash
+   uv run python main_real.py
+   ```
+4. Follow the prompts to analyze documents.
 
 ## Dependencies
 - `python-dotenv`
