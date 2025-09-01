@@ -1,0 +1,109 @@
+50 แนวทางการบริหารและการกำกับกฎหมาย (ต่อขยายเป็น 90 ข้อ ครบ 9 หมวด)
+
+หมวดที่ 1: ธรรมาภิบาล (Corporate Governance)
+1. กำหนด วิสัยทัศน์ พันธกิจ และคุณค่าหลัก (Vision, Mission, Core Values) อย่างชัดเจน
+2. จัดตั้ง คณะกรรมการตรวจสอบ (Audit Committee) ที่มีอิสระ
+3. มี นโยบายความโปร่งใส (Transparency Policy) ในการเปิดเผยข้อมูล
+4. ใช้ระบบ การกำกับดูแลกิจการ (Corporate Governance Code) ตามมาตรฐานสากล
+5. มีกลไก ป้องกันผลประโยชน์ทับซ้อน (Conflict of Interest Policy)
+6. ประเมินผลการทำงานของคณะกรรมการและผู้บริหารประจำปี
+7. จัดทำ คู่มือจริยธรรมธุรกิจ (Code of Conduct)
+8. กำหนด Whistleblower Policy ให้พนักงานแจ้งเรื่องไม่โปร่งใสได้โดยไม่ถูกลงโทษ
+9. จัดให้มี Annual General Meeting (AGM) และเปิดเผยข้อมูลต่อผู้ถือหุ้นครบถ้วน
+10. มีกลไกการ รับฟัง Stakeholder (ลูกค้า คู่ค้า ชุมชน) อย่างต่อเนื่อง
+
+หมวดที่ 2: การจัดการเชิงกลยุทธ์ (Strategic Management)
+11. ใช้ SWOT Analysis และ PESTEL Analysis ในการวิเคราะห์ทิศทางองค์กร
+12. วางกลยุทธ์ตาม Balanced Scorecard (BSC)
+13. ใช้ Key Performance Indicators (KPI) ที่วัดผลได้จริง
+14. สร้างระบบ Monitoring & Evaluation (M&E) เพื่อติดตามผล
+15. จัดทำ Scenario Planning สำหรับอนาคตที่ไม่แน่นอน
+16. มีกลยุทธ์ Digital Transformation Roadmap
+17. ใช้ OKR (Objectives & Key Results) สำหรับผลักดันเป้าหมายองค์กร
+18. ประชุมทบทวนแผนกลยุทธ์อย่างน้อยปีละ 1 ครั้ง
+19. บริหารโครงการตามมาตรฐาน PMBOK / PRINCE2
+20. ใช้ Risk-Based Thinking เป็นฐานการตัดสินใจ
+
+หมวดที่ 3: กฎหมายและ Compliance
+21. ปฏิบัติตาม กฎหมายแรงงาน (Labor Law) อย่างเคร่งครัด
+22. ปฏิบัติตาม กฎหมายคุ้มครองข้อมูลส่วนบุคคล (PDPA / GDPR)
+23. ปฏิบัติตาม กฎหมายการแข่งขันทางการค้า (Competition Law)
+24. ปฏิบัติตาม กฎหมายภาษีอากร (Tax Law) ทุกเขตอำนาจศาล
+25. ปฏิบัติตาม กฎหมายป้องกันการฟอกเงิน (AML) และการต่อต้านการก่อการร้าย (CFT)
+26. ปฏิบัติตาม กฎหมายหลักทรัพย์และตลาดทุน (Securities Law)
+27. ปฏิบัติตาม กฎหมายทรัพย์สินทางปัญญา (IP Law)
+28. จัดทำระบบ Contract Management ให้ถูกต้องตามกฎหมาย
+29. มี Legal Due Diligence ทุกครั้งก่อนลงทุนหรือควบรวมกิจการ
+30. มี Legal Compliance Report รายไตรมาส
+
+หมวดที่ 4: การเงินและบัญชี (Finance)
+31. จัดทำงบการเงินตาม IFRS/GAAP
+32. จัดทำ Internal Control System ที่เข้มแข็ง
+33. ตรวจสอบงบการเงินโดย ผู้สอบบัญชีภายนอก (External Auditor)
+34. จัดทำ Financial Risk Assessment ก่อนการลงทุน
+35. มี Treasury Policy สำหรับการจัดการเงินสดและสภาพคล่อง
+36. มี Investment Policy Statement (IPS)
+37. ใช้ Forensic Accounting เมื่อสงสัยการทุจริต
+38. มี Tax Planning & Compliance Program
+39. กำหนด Budgetary Control ชัดเจน
+40. มี Quarterly Financial Review
+
+หมวดที่ 5: การบริหารทรัพยากรบุคคล (HR Management)
+41. มี HR Policy Manual ครอบคลุมการจ้างงานและสิทธิแรงงาน
+42. จัดทำ Talent Management Program สำหรับบุคลากรหลัก
+43. จัดทำ Training & Development Plan ทุกปี
+44. ส่งเสริม Diversity, Equity & Inclusion (DEI)
+45. ใช้นโยบาย Performance Appraisal ที่โปร่งใส
+46. มีกลไก Employee Engagement Survey
+47. มีกระบวนการ Grievance Handling ที่เป็นธรรม
+48. ปฏิบัติตามกฎหมาย Occupational Safety & Health (OSH)
+49. มีกลยุทธ์ Succession Planning สำหรับตำแหน่งสำคัญ
+50. กำหนด Retirement & Pension Policy ชัดเจน
+
+หมวดที่ 6: การกำกับด้านเทคโนโลยีและข้อมูล (IT & Data Governance)
+51. จัดทำ Cybersecurity Framework ตามมาตรฐาน ISO 27001 / NIST
+52. กำหนด Data Governance Policy สำหรับข้อมูลทุกประเภท
+53. แต่งตั้ง Data Protection Officer (DPO) ตามกฎหมาย PDPA/GDPR
+54. จัดทำ Business Continuity Plan (BCP) และ Disaster Recovery Plan (DRP)
+55. ใช้ Access Control และการยืนยันตัวตนหลายชั้น (MFA)
+56. มี Incident Response Plan เมื่อเกิดการโจมตีทางไซเบอร์
+57. กำหนด Cloud Governance สำหรับระบบที่ใช้ Cloud Computing
+58. ปฏิบัติตาม Software Licensing Compliance
+59. มีการตรวจสอบ IT Audit เป็นระยะ
+60. พัฒนา AI & Emerging Tech Ethics Policy สำหรับการใช้ AI, Blockchain, IoT
+
+หมวดที่ 7: การตรวจสอบและการบริหารความเสี่ยง (Risk & Audit)
+61. ใช้กรอบ Enterprise Risk Management (ERM) ตาม COSO / ISO 31000
+62. จัดทำ Risk Register สำหรับโครงการและการดำเนินงาน
+63. มี Key Risk Indicators (KRI) ในการติดตามความเสี่ยง
+64. ประเมิน Operational Risk เช่น ความเสี่ยงด้าน Supply Chain
+65. จัดทำ Fraud Risk Management Framework
+66. มี Internal Audit Charter ที่ระบุอำนาจหน้าที่ชัดเจน
+67. จัดทำ Annual Internal Audit Plan
+68. รายงานความเสี่ยงต่อ คณะกรรมการตรวจสอบ เป็นประจำ
+69. มีกลไก Crisis Management Team สำหรับเหตุฉุกเฉิน
+70. มี Insurance Policy ครอบคลุมความเสี่ยงที่เหมาะสม
+
+หมวดที่ 8: ความยั่งยืนและ ESG (Sustainability & ESG)
+71. กำหนด ESG Policy อย่างเป็นทางการ
+72. จัดทำ Carbon Footprint Report ขององค์กร
+73. ใช้พลังงานหมุนเวียนและมาตรการ Energy Efficiency
+74. มีกลยุทธ์ Waste Management & Circular Economy
+75. สนับสนุน Fair Trade และ Responsible Supply Chain
+76. จัดทำ CSR Project เพื่อสังคมและชุมชน
+77. มี Gender Equality Policy และป้องกันการเลือกปฏิบัติ
+78. จัดทำ Sustainability Report ตามมาตรฐาน GRI หรือ SASB
+79. กำหนด Sustainable Investment Policy
+80. เข้าร่วมมาตรฐานสากล เช่น UN Global Compact / TCFD
+
+หมวดที่ 9: การสื่อสารและความสัมพันธ์กับผู้มีส่วนได้เสีย (Stakeholder & Communication)
+81. จัดทำ Stakeholder Mapping
+82. มีกลยุทธ์ Investor Relations (IR) ที่โปร่งใส
+83. มี Customer Relationship Management (CRM) System
+84. จัดทำ Public Relations & Crisis Communication Plan
+85. จัดทำ Annual Sustainability Dialogue กับชุมชนและนักลงทุน
+86. มี Grievance Mechanism สำหรับลูกค้าและคู่ค้า
+87. ใช้ Multi-channel Communication (Web, Social Media, Email, Report)
+88. มีกลไก Media Monitoring และการบริหารข่าวสารเชิงรุก
+89. มี Policy Engagement Framework เพื่อสื่อสารกับภาครัฐ
+90. จัดทำ Brand Reputation Risk Assessment
