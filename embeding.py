@@ -26,7 +26,10 @@ def add_text_to_qdrant(texts):
             embedding=embeddings,
         )
 
-        vector_store.add_texts([text.page_content for text in texts])
+        vector_store.add_texts(
+            [t.page_content for t in texts],   # list ของข้อความ
+            [t.metadata for t in texts]        # list ของ metadata
+        )
         print(f"✅ เพิ่ม {len(texts)} chunks ลง collection เรียบร้อย")
         return True
 
