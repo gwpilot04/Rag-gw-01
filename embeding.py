@@ -2,10 +2,11 @@ import os
 from langchain_openai import AzureOpenAIEmbeddings
 from langchain_qdrant import QdrantVectorStore
 from connect_db import connect_qdrant
+from langchain_core.documents import Document
 
 
-def add_text_to_qdrant(texts):
 
+def add_text_to_qdrant(texts:list[Document]):
     client = connect_qdrant()
     
     if client is None:
