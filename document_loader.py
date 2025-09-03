@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-from langchain_community.document_loaders import DirectoryLoader, TextLoader
+from langchain_community.document_loaders import DirectoryLoader, TextLoader, PyPDFLoader
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from qdrant_client.models import Distance, VectorParams
@@ -15,10 +15,10 @@ load_dotenv()
 
 def document_loader():
     try:
-        loader = TextLoader("../documents/Executive_Governance_90.txt", encoding="utf-8")
+        # loader = TextLoader("./documents/Executive_Governance_90.txt", encoding="utf-8")
         # Step 1: Load
         # ทำ .txt ไปก่อน pdf ค่อยว่ากัน
-        loader = TextLoader("../documents/Executive_Governance_90.txt", encoding="utf-8")
+        loader = PyPDFLoader("./documents/กฎหมายลิทธิ์.pdf")
         docs = loader.load()
         return docs
         # print(f"Loaded {len(docs)} documents.")
