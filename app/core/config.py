@@ -8,6 +8,7 @@ import logging
 from functools import lru_cache
 
 load_dotenv()
+logger = logging.getLogger(__name__)
 class Settings:
 
         def __init__(self):
